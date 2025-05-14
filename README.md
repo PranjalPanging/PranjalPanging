@@ -1,6 +1,6 @@
 # Heyy! I'm Pranjal Panging
 
-**AI/ML/DL Enthusiast** | **Tani Culture & History Lover** | **Student**
+**AI/ML/DL Enthusiast** | **Tani Culture & History Lover** | **Student** | **Football Lover**
 
 ---
 
