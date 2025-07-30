@@ -48,7 +48,7 @@ I'm passionate about:
 
 ### 📫 How to Reach Me
 
-- Email: *Coming soon!*  
+- Email: *pangistic@proton.me*  
 - [GitHub](https://github.com/PranjalPanging)
 
 ---
