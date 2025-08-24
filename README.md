@@ -11,11 +11,12 @@ I'm **Pranjal Panging**, a Class 11 student from India 🇮🇳
 I'm passionate about:
 
 - 🧲 **Physics** – fascinated by how the universe works  
+- ➗ **Math** – love solving problems and exploring patterns  
 - 💻 **Coding & AI/ML** – learning Python and dreaming big  
 - 📜 **History & Languages** – interested in human culture and expression (even though I don’t know much yet 😅)  
 - ⚽ **Football** – love watching and playing matches  
 - 🧊 **Rubik’s Cube** – I can solve it (not super fast, but I enjoy it!)  
-- ♟️ **Chess** – total beginner, but it’s fun and challenging
+- ♟️ **Chess** – total beginner, but it’s fun and challenging  
 
 ---
 
@@ -30,10 +31,11 @@ I'm passionate about:
 
 ### 📌 Current Goals
 
-- Build strong fundamentals in **Physics, Math, and Coding**
-- Balance **JEE + Board Exam** preparation effectively
-- Learn Python deeply and explore basic **AI/ML** concepts
-- Share useful notes, projects, and learning tools here
+- Build strong fundamentals in **Physics, Math, and Coding**  
+- Balance **JEE + Board Exam** preparation effectively  
+- Learn Python deeply and explore basic **AI/ML** concepts  
+- Share useful notes, projects, and learning tools here  
+- Grow as a person, while finding love and building true connections  
 
 ---
 
@@ -55,6 +57,6 @@ I'm passionate about:
 
 ### 🧠 Fun Fact
  
-> I also enjoy small logic games like chess and Rubik’s cubes 🧩
+> I also enjoy small logic games like chess and Rubik’s cubes 🧩 … and I wish to one day find true love ❤️
 
 ---
