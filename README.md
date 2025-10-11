@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal Panging</h1>
-<h3 align="center">Class 11 Student | JEE Aspirant | Future AI/ML Developer</h3>
+<h3 align="center">Class 11 Student
 
 ---
 
 ### 🧑‍🎓 About Me
 
-I'm **Pranjal Panging**, a Class 11 student from India 🇮🇳  
+I'm **Pranjal Panging**, a Class 11 student   
 🎯 Currently preparing for **JEE Mains & Advanced**, and aiming for **95%+ in board exams**
 
 I'm passionate about:
@@ -23,8 +23,11 @@ I'm passionate about:
 ### 💻 Tech Stack (Currently Learning)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -42,11 +45,20 @@ I'm passionate about:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranjalPanging&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PranjalPanging&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PranjalPanging&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalPanging&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranjalPanging&theme=tokyonight&hide_border=false&background=transparent&currStreakNum=0&currStreakLabel=🔥" width="48%" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PranjalPanging&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="48%" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalPanging&theme=tokyonight&hide_border=true&bg_color=0d1117&color=5865f2&line=5865f2&point=ffffff" width="100%" alt="Activity Graph" />
+</p>
+
+<br/>
 
 ### 📫 How to Reach Me
 
@@ -60,3 +72,4 @@ I'm passionate about:
 > I also enjoy small logic games like chess and Rubik’s cubes 🧩 … and I wish to one day find true love ❤️
 
 ---
+```
