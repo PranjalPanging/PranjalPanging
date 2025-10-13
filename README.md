@@ -64,7 +64,7 @@ I'm passionate about:
 
 - Email: *pangistic@proton.me*  
 - [GitHub](https://github.com/PranjalPanging)
-
+- [linkedin](www.linkedin.com/in/pranjalpanging)
 ---
 
 ### 🧠 Fun Fact
