@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pranjal Panging</h1>
-<h3 align="center">Class 11 Student
+<h3 align="center">Class 11 Student</h3>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-I'm **Pranjal Panging**, a Class 11 student   
-🎯 Currently preparing for **JEE Mains & Advanced**, and aiming for **95%+ in board exams**
+I'm **Pranjal Panging**, a Class 11 student.  
 
 I'm passionate about:
 
-- 🧲 **Physics** – fascinated by how the universe works  
-- ➗ **Math** – love solving problems and exploring patterns  
+- ➗ **Math** – love exploring patterns, solving problems, and finding elegant logic behind everything  
+- 🧲 **Physics** – curious about how nature fits together, from tiny particles to galaxies in motion  
 - 💻 **Coding & AI/ML** – learning Python and dreaming big  
 - 📜 **History & Languages** – interested in human culture and expression (even though I don’t know much yet 😅)  
 - ⚽ **Football** – love watching and playing matches  
 - 🧊 **Rubik’s Cube** – I can solve it (not super fast, but I enjoy it!)  
 - ♟️ **Chess** – total beginner, but it’s fun and challenging  
+- 🐉 **Pokémon** – grew up loving the adventures and teamwork spirit  
+- 🤖 **Doraemon** – childhood favorite; still reminds me that imagination makes anything possible  
 
 ---
 
@@ -34,15 +35,16 @@ I'm passionate about:
 
 ### 📌 Current Goals
 
-- Build strong fundamentals in **Physics, Math, and Coding**  
-- Balance **JEE + Board Exam** preparation effectively  
+- Strengthen fundamentals in **Math, Physics, and Coding**  
 - Learn Python deeply and explore basic **AI/ML** concepts  
+- Build small, fun projects — maybe a **Pokémon-themed** one someday 🐾  
+- Keep the **Doraemon mindset** — creative, curious, and ready to invent  
 - Share useful notes, projects, and learning tools here  
 - Grow as a person, while finding love and building true connections  
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PranjalPanging&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -58,18 +60,27 @@ I'm passionate about:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalPanging&theme=tokyonight&hide_border=true&bg_color=0d1117&color=5865f2&line=5865f2&point=ffffff" width="100%" alt="Activity Graph" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PranjalPanging&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%" alt="Contributor Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranjalPanging&theme=tokyonight" width="100%" alt="Profile Summary" />
+</p>
+
+---
 
 ### 📫 How to Reach Me
 
-- Email: *pangistic@proton.me*  
+- Email: *pranjalpanging@keemail.me*  
 - [GitHub](https://github.com/PranjalPanging)
-- [linkedin](www.linkedin.com/in/pranjalpanging)
+- [LinkedIn](www.linkedin.com/in/pranjalpanging)
+
 ---
 
 ### 🧠 Fun Fact
  
-> I also enjoy small logic games like chess and Rubik’s cubes 🧩 … and I wish to one day find true love ❤️
+> I also enjoy small logic games like chess and Rubik’s cubes 🧩 … and I wish to one day find true love ❤️  
+> Also, I still cheer for Pokémon battles and believe Doraemon’s gadgets should’ve been real by now 😄
 
 ---
-```
