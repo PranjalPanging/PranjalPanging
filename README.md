@@ -80,7 +80,7 @@ I'm passionate about:
 
 ### 🧠 Fun Fact
  
-> I also enjoy small logic games like chess and Rubik’s cubes 🧩 … and I wish to one day find true love ❤️  
+> I also enjoy logic games like chess and Rubik’s cubes even tho I'm not perfect 🧩 … and I wish to one day find true love ❤️  
 > Also, I still cheer for Pokémon battles and believe Doraemon’s gadgets should’ve been real by now 😄
 
 ---
