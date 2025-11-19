@@ -43,7 +43,6 @@ I'm passionate about:
 - Build small, fun projects — maybe a **Pokémon-themed** one someday 🐾  
 - Keep the **Doraemon mindset** — creative, curious, and ready to invent  
 - Share useful notes, projects, and learning tools here  
-- Grow as a person, while finding love and building true connections  
 
 ---
 
